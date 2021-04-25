@@ -1,0 +1,292 @@
+item.smokingPipe.name=Трубка
+item.bong.name=Бонг
+item.wineGrapes.name=Винный виноград
+tile.wineGrapeLattice.name=Сетка для винограда
+tile.cannabisPlant.name=Конопля
+item.cannabisSeeds.name=Семена конопли
+item.cannabisLeaf.name=Лист конопли
+item.cannabisBuds.name=Шишка конопли
+item.driedCannabisBuds.name=Высушенные шишки конопли
+item.driedCannabisLeaves.name=Высушенные листья конопли
+item.hashMuffin.name=Магический Маффин
+tile.dryingTable.name=Сушка
+item.magicMushroomsBrown.name=Коричневый Магический гриб
+item.magicMushroomsRed.name=Красный Магический гриб
+tile.tobaccoPlant.name=Табак
+item.tobaccoLeaf.name=Листья табака
+item.tobaccoSeeds.name=Семена табака
+item.driedTobacco.name=Сушеный табак
+item.cigarette.name=Сигарета
+item.cigar.name=Сигара
+item.joint.name=Косяк
+tile.cocaPlant.name=Кокаиновый куст
+item.cocaSeeds.name=Семена коки
+item.cocaLeaf.name=Лист коки
+item.driedCocaLeaves.name=Сушеные листья Коки
+tile.psycheLeaves.name=Листва можжевельника
+tile.psycheLeaves.juniper.name=Листва можжевельника
+tile.psycheLeaves.juniperBerries.name=Листва можжевельника с ягодами
+tile.psycheLog.name=Древесина можжевельника 
+tile.psycheSapling.name=Саженец можжевельника
+item.juniperBerries.name=Можжевельник
+tile.coffea.name=Кофе
+item.coffeaCherries.name=Кофейная вишня
+item.coffeeBeans.name=Кофейные бобы
+tile.peyote.name=Магический кактус
+item.driedPeyote.name=Сушеный магический кактус
+item.jointPeyote.name=Косяк с магическим кактусом
+tile.riftJar.name=Банка для разлома
+item.riftJar.empty=Пустая
+item.riftJar.slightlyFilled=Слегка заполненая
+item.riftJar.halfFilled=Наполовину заполненая
+item.riftJar.full=Полная
+item.riftJar.overflowing=Переполненая
+tile.glitched.name=Блок $__0
+tile.psFlask.name=Колба
+tile.psFlask.full.name=Колба наполненная %s
+tile.psDistillery.name=Дистиллятор
+tile.psDistillery.full.name=Дистиллятор(Наполнен %s)
+tile.hopPlant.name=Хмель
+item.hopSeeds.name=Семена хмеля
+item.hopCones.name=Шишки хмеля
+item.cocainePowder.name=Кокс
+tile.bottleRack.name=Стойка для бутылок
+container.bottleRack=Стойка для бутылок
+
+item.woodenMug.name=Деревянная кружка
+item.woodenMug.full.name=Деревянная кружка %s
+
+item.glassChalice.name=Бокал
+item.glassChalice.full.name=Бокал %s
+
+item.stoneCup.name=Кружка
+item.stoneCup.full.name=Кружка %s
+
+item.pscBottle.name=Бутылка
+item.pscBottle.full.name=Бутылка %s
+
+item.molotovCocktail.name=Коктейль Молотова
+item.molotovCocktail.empty.name=Empty коктейль Молотова
+item.molotovCocktail.quality0.name=Бесполезный коктейль Молотова
+item.molotovCocktail.quality1.name=Ужасный коктейль Молотова
+item.molotovCocktail.quality2.name=Плохой коктейль Молотова
+item.molotovCocktail.quality3.name=Средний коктейль Молотова
+item.molotovCocktail.quality4.name=Хороший коктейль Молотова
+item.molotovCocktail.quality5.name=Превосходный коктейль Молотова
+item.molotovCocktail.quality6.name=Идеальный коктейль Молотова
+item.molotovCocktail.quality7.name=Сверх-коктейль Молотова
+entity.molotovCocktail.name=Коктейль Молотова
+
+tile.psBarrel.name=Бочка
+tile.psBarrel.full.name=%s бочка
+tile.psMashTub.name=Чан
+tile.psMashTub.full.name=Чан (%s)
+
+item.syringe.name=Шприц
+item.syringe.full.name=Шприц - %s
+
+item.harmonium.dye0.name=Черный Harmonium
+item.harmonium.dye1.name=Красный Harmonium
+item.harmonium.dye2.name=Заленый Harmonium
+item.harmonium.dye3.name=Коричневый Harmonium
+item.harmonium.dye4.name=Синий Harmonium
+item.harmonium.dye5.name=Фиолетовый Harmonium
+item.harmonium.dye6.name=Голубой Harmonium
+item.harmonium.dye7.name=Светло-серый Harmonium
+item.harmonium.dye8.name=Серый Harmonium
+item.harmonium.dye9.name=Розовый Harmonium
+item.harmonium.dye10.name=Лаймовый Harmonium
+item.harmonium.dye11.name=Желтый Harmonium
+item.harmonium.dye12.name=Светло-синий Harmonium
+item.harmonium.dye13.name=Пурпурный Harmonium
+item.harmonium.dye14.name=Оранжевый Harmonium
+item.harmonium.dye15.name=Белый Harmonium
+
+entity.realityRift.name=Разлом реальности
+
+tile.bed.onDrugs=Стимуляторы в вашем теле не дают Вам уснуть
+
+death.attack.alcoholPoisoning=%1$s умер от цироза печени
+death.attack.stroke=У %1$s случился инсульт
+death.attack.heartFailure=%1$s умер от передоза
+death.attack.respiratoryFailure=У %1$s произошло нарушение дыхания
+
+fluid.psc_slurry=Шлак
+
+fluid.psc_wheat_hop=Горькое пшеничное сусло
+fluid.psc_wheat_hop.ferment.1=Пивной спирт-сырец
+fluid.psc_wheat_hop.ferment.2=Пиво с зелёным солодом
+fluid.psc_wheat_hop.mature=Пшеничное пиво (%d DM)
+fluid.psc_wheat_hop.distill=Пшеничное пиво (%d TD)
+fluid.psc_wheat_hop.dmature=Пшеничное пиво (%d DM, %d TD)
+fluid.psc_wheat_hop.vinegar=Пивной уксус
+fluid.psc_wheat=Пшеничное сусло
+fluid.psc_wheat.ferment.1=Пшеничный спирт-сырец
+fluid.psc_wheat.ferment.2=Пшеничый самогон
+fluid.psc_wheat.mature=Пшеничый самогон (%d DM)
+fluid.psc_wheat.distill=Пшеничная водка (%d TD)
+fluid.psc_wheat.dmature=Виски (%d DM, %d TD)
+fluid.psc_wheat.vinegar=Хлебный уксус
+fluid.psc_corn=Кукурузное сусло
+fluid.psc_corn.ferment.1=Кукурузный спирт-сырец
+fluid.psc_corn.ferment.2= Кукурузный самогон
+fluid.psc_corn.mature=Кукурузное пиво (%d DM)
+fluid.psc_corn.distill=Кукурузная водка (%d TD)
+fluid.psc_corn.dmature=Кукурузныи виски (%d DM, %d TD)
+fluid.psc_corn.vinegar=Кукурузный уксус
+fluid.psc_potato=Картофельное сусло
+fluid.psc_potato.ferment.1=Картофельная спирт-сырец
+fluid.psc_potato.ferment.2=Картофельное самогон
+fluid.psc_potato.mature=Картофельное пиво (%d DM)
+fluid.psc_potato.distill=Картофельная водка (%d TD)
+fluid.psc_potato.dmature=Ирландский самогон (%d DM, %d TD)
+fluid.psc_potato.vinegar=Кактофельний уксус
+fluid.psc_red_grapes=Виноградный сок
+fluid.psc_red_grapes.ferment.1=Виноградный спирт-сырец
+fluid.psc_red_grapes.ferment.2=Виноградный самогон
+fluid.psc_red_grapes.mature=Вино (%d DM)
+fluid.psc_red_grapes.distill=Виноградный бренди (%d TD)
+fluid.psc_red_grapes.dmature=Виноградный бренди (%d DM, %d TD)
+fluid.psc_red_grapes.vinegar=Виноградный уксус
+fluid.psc_rice=Рисовое сусло
+fluid.psc_rice.ferment.1=Рисовый спирт-сырец
+fluid.psc_rice.ferment.2=Молодое саке
+fluid.psc_rice.mature=Саке (%d DM)
+fluid.psc_rice.distill=Рисовый бренди (%d TD)
+fluid.psc_rice.dmature=Рисовый бренди (%d DM, %d TD)
+fluid.psc_rice.vinegar=Рисовый уксус
+fluid.psc_honey=Мёд
+fluid.psc_honey.ferment.1=Медовый спирт-сырец
+fluid.psc_honey.ferment.2=Young Mead
+fluid.psc_honey.mature=Медовуха (%d DM)
+fluid.psc_honey.distill=Медовый бренди (%d TD)
+fluid.psc_honey.dmature=Медовый бренди (%d DM, %d TD)
+fluid.psc_honey.vinegar=Медовый уксус
+fluid.psc_juniper=Можжевельниковое сусло
+fluid.psc_juniper.ferment.1=Можжевельниковый спирт-сырец
+fluid.psc_juniper.ferment.2=Можжевельниковый самогон
+fluid.psc_juniper.mature=Можжевельниковый самогон (%d DM)
+fluid.psc_juniper.distill=Джин (%d TD)
+fluid.psc_juniper.dmature=Джин (%d DM, %d TD)
+fluid.psc_juniper.vinegar=Можжевельниковый уксус
+fluid.psc_sugar_cane=Тростниковое сусло
+fluid.psc_sugar_cane.ferment.1=Тростниковый спирт-сырец
+fluid.psc_sugar_cane.ferment.2=Молодой баси
+fluid.psc_sugar_cane.mature=Баси (%d DM)
+fluid.psc_sugar_cane.distill=Молодой ром (%d TD)
+fluid.psc_sugar_cane.dmature=Ром (%d DM, %d TD)
+fluid.psc_sugar_cane.vinegar=Тростниковый уксус
+fluid.psc_apple=Яблочный сок
+fluid.psc_apple.ferment.1=Сладкий сидр
+fluid.psc_apple.ferment.2=Крепкий сидр
+fluid.psc_apple.mature=Сидр (%d DM)
+fluid.psc_apple.distill=Яблочный бренди (%d TD)
+fluid.psc_apple.dmature=Яблочный бренди (%d DM, %d TD)
+fluid.psc_apple.vinegar=Яблочный уксус
+fluid.psc_pineapple=Ананасовый сок
+fluid.psc_pineapple.ferment.1=Ананасовый спирт-сырец
+fluid.psc_pineapple.ferment.2=Молодое ананасовое вино
+fluid.psc_pineapple.mature=Ананасовое вино (%d DM)
+fluid.psc_pineapple.distill=Ананасовое бренди (%d TD)
+fluid.psc_pineapple.dmature=Ананасовое бренди (%d DM, %d TD)
+fluid.psc_pineapple.vinegar=Ананасовый уксус
+fluid.psc_banana=Банановый сок
+fluid.psc_banana.ferment.1=Банановый спирт-сырец
+fluid.psc_banana.ferment.2=Банановый самогон
+fluid.psc_banana.mature=Банановое пиво (%d DM)
+fluid.psc_banana.distill=Банановый бренди (%d TD)
+fluid.psc_banana.dmature=Банановый бренди (%d DM, %d TD)
+fluid.psc_banana.vinegar=Банановый уксус
+fluid.psc_milk=Молоко
+fluid.psc_milk.ferment.1=Молочный спирт-сырец
+fluid.psc_milk.ferment.2=Молочный самогон
+fluid.psc_milk.mature=Blaand (%d DM)
+fluid.psc_milk.distill=Архи (%d TD)
+fluid.psc_milk.dmature=Архи (%d DM, %d TD)
+fluid.psc_milk.vinegar=Молочный уксус
+
+fluid.psc_coffee=Кофе
+fluid.psc_coffee.temperature0=Холодный кофе
+fluid.psc_coffee.temperature1=Теплый кофе
+fluid.psc_coffee.temperature2=Гарячий кофе
+fluid.psc_peyote_juice=Сок магического кактуса
+fluid.psc_coca_tea=Кокаиновый чай
+fluid.psc_cannabis_tea=Конопляный чай
+fluid.psc_cocaine_fluid=Белый стимулятор
+fluid.psc_caffeine_fluid=Кофеин
+
+fluid.status.maturing=Созревает
+fluid.status.fermenting=Бродит
+fluid.status.distilling=Дистиллируется
+
+itemGroup.psychedelicraft=Psychedelicraft
+itemGroup.psycheDrinks=Напитки
+itemGroup.psycheWeapons=Psychedelicraft Оружие
+
+commands.psyche.usage=/psyche spawnRift [x] [y] [z]
+
+commands.drug.usage=/drug <игрок> <стимулятор> <set|lock|unlock> [значение]
+commands.drug.success=%s's %s установлен на %s
+commands.drug.success.lock=%s's %s заблокировано на %s
+commands.drug.success.unlock=%s's %s разблокировано в %s
+commands.drug.nodrug=%s неизвестный стимулятор!
+
+psychedelicraft.configgui.title=Psychedelicraft конфиг
+psychedelicraft.configgui.ctgy.general=Основные
+psychedelicraft.configgui.ctgy.general.tooltip=Основные настройки
+psychedelicraft.configgui.ctgy.balancing=Баланс
+psychedelicraft.configgui.ctgy.balancing.tooltip=Настройки влияющие на баланс мода
+psychedelicraft.configgui.ctgy.visual=Визуал
+psychedelicraft.configgui.ctgy.visual.tooltip=Настройки влияющие на эффекты
+psychedelicraft.configgui.ctgy.audio=Аудио
+psychedelicraft.configgui.ctgy.audio.tooltip=Настройки влияющие на звук
+
+recipe.action.pour=Налить %s
+
+achievement.madeMashTub=Намокнуть
+achievement.madeMashTub.desc=Сделайте промывочный чан
+achievement.madeDistillery=Время... дистиллировать
+achievement.madeDistillery.desc=Сделайте дистиллятор
+
+achievement.hopCones=Начинаем
+achievement.hopCones.desc=Соберите немного хмеля
+achievement.beerWash=Юный пивовар
+achievement.beerWash.desc=Приготовьте пшеничный самогон
+achievement.drankBeer=Пивасик
+achievement.drankBeer.desc=Выпейте пива
+achievement.drankMatureBeer=Алкаш
+achievement.drankMatureBeer.desc=Выпейте сумарно 7 DM.
+
+achievement.grapes=Вкусно
+achievement.grapes.desc=Найдите виноград
+achievement.grapeWash=Прекрасный сок
+achievement.grapeWash.desc=Выдавите виноградный сок
+achievement.drankWine=Классика
+achievement.drankWine.desc=Выпейте вина
+achievement.drankWineBrandy=Тяжело стоять
+achievement.drankWineBrandy.desc=Выпейте виноградного бденди
+
+achievement.sugarcaneWash=Лучше чем книги
+achievement.sugarcaneWash.desc=Замешайте тростникового самогона
+achievement.drankBasi=Принадлежат нам
+achievement.drankBasi.desc=Выпейте баси
+
+achievement.drankRum=Йо-хо-хо
+achievement.drankRum.desc=Выпейте рома
+
+achievement.madeDryingTable=Высохнуть
+achievement.madeDryingTable.desc=Сделайте сушку
+
+achievement.cannabisBuds=Только лучшие
+achievement.cannabisBuds.desc=Найдите шишки конопли
+achievement.driedCannabisBuds=Болотная травка
+achievement.driedCannabisBuds.desc=Высушите шишки конопли
+achievement.madeJoint=Да не torch я!
+achievement.madeJoint.desc=Скрутите косяк
+achievement.madeHashMuffin=Аппетитно
+achievement.madeHashMuffin.desc=Приготовьте магический маффин
+
+achievement.driedBrownShrooms=Попробуй магию на вкус
+achievement.driedBrownShrooms.desc=Высушите красные грибы
+achievement.driedRedShrooms=Почувствуй магию
+achievement.driedRedShrooms.desc=Высушите коричневые грибы
